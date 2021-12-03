@@ -1,1 +1,1 @@
-__all__ = ["Day1", "Day2"]
+__all__ = ["Day1", "Day2", "Day3"]
