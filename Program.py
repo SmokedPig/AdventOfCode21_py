@@ -1,12 +1,34 @@
 from Solver import *
+import time
+from datetime import timedelta
 
-Day1.Part1()
-Day1.Part2()
+# t = time.perf_counter()
+# Day1.Part1()
+# print(f"Duration: {time.perf_counter()-t:0.4f} s\n")
 
-Day2.Part1()
-Day2.Part2()
+# t = time.perf_counter()
+# Day1.Part2()
+# print(f"Duration: {time.perf_counter()-t:0.4f} s\n")
 
-Day3.Part1()
-Day3.Part2()
+# t = time.perf_counter()
+# Day2.Part1()
+# print(f"Duration: {time.perf_counter()-t:0.4f} s\n")
+# t = time.perf_counter()
+# Day2.Part2()
+# print(f"Duration: {time.perf_counter()-t:0.4f} s\n")
+
+# t = time.perf_counter()
+# Day3.Part1()
+# print(f"Duration: {time.perf_counter()-t:0.4f} s\n")
+# t = time.perf_counter()
+# Day3.Part2()
+# print(f"Duration: {time.perf_counter()-t:0.4f} s\n")
+
+t = time.perf_counter()
+Day4.Part1()
+print(f"Duration: {time.perf_counter()-t:0.4f} s\n")
+t = time.perf_counter()
+Day4.Part2()
+print(f"Duration: {time.perf_counter()-t:0.4f} s\n")
 
 print("THE END!")

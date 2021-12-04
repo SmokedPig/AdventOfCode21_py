@@ -17,7 +17,7 @@ def Part1():
             old_value = temp
 
     print("Counter: " + str(counter))
-    print(description+" Part 1 Done\n")
+    print(description+" Part 1 Done")
 
 def Part2():
     print(description+" Part 2")
@@ -32,4 +32,4 @@ def Part2():
                 counter = counter + 1
 
     print("Counter: " + str(counter))
-    print(description+" Part 2 Done\n")
+    print(description+" Part 2 Done")

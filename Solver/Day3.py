@@ -48,7 +48,7 @@ def Part1():
     print("Epsilon: " + str(eps_b) + " (bin) "+str(eps_d)+" (dec)")
     print("Solution (Gamma*Epsilon): "+str(gam_d*eps_d))
 
-    print(description+" Part 1 Done\n")
+    print(description+" Part 1 Done")
 
 def Part2():
     print(description+" Part 2")
@@ -63,7 +63,7 @@ def Part2():
     print("CO2: " + str(co2[0]) + " (bin) "+str(co2[1])+" (dec)")
     print("Solution (Oxy*CO2): "+str(oxy[1]*co2[1]))
 
-    print(description+" Part 2 Done\n")
+    print(description+" Part 2 Done")
 
 def filterList(listOfNumbers, invert):
     index = 0

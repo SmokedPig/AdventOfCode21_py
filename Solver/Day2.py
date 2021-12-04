@@ -22,7 +22,7 @@ def Part1():
     print("Pos: " + str(pos))
     print("Depth: " + str(depth))        
     print("Solution (Pos*Depth): "+str(pos*depth))
-    print(description+" Part 1 Done\n")
+    print(description+" Part 1 Done")
 
 def Part2():
     print(description+" Part 2")
@@ -45,4 +45,4 @@ def Part2():
     print("Depth: " + str(depth))        
     print("Solution (Pos*Depth): "+str(pos*depth))
 
-    print(description+" Part 2 Done\n")
+    print(description+" Part 2 Done")
