@@ -1,7 +1,4 @@
-# module: Solver for day 3
-from os import terminal_size
-from typing import Iterator
-
+# module: Solver for day 4
 
 solverName = "Day4"
 description = "Solver "+solverName
