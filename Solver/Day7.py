@@ -4,7 +4,6 @@ description = "Solver "+solverName
 filePath = "Inputs\\"+solverName+".txt"
 testPath = "Inputs\\"+solverName+"_test.txt"
 
-from os import stat
 import statistics
 
 def Part1():
