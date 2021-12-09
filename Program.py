@@ -52,11 +52,18 @@ from datetime import timedelta
 # Day7.Part2()
 # print(f"Duration: {time.perf_counter()-t:0.4f} s\n")
 
+# t = time.perf_counter()
+# Day8.Part1()
+# print(f"Duration: {time.perf_counter()-t:0.4f} s\n")
+# t = time.perf_counter()
+# Day8.Part2()
+# print(f"Duration: {time.perf_counter()-t:0.4f} s\n")
+
 t = time.perf_counter()
-Day8.Part1()
+Day9.Part1()
 print(f"Duration: {time.perf_counter()-t:0.4f} s\n")
 t = time.perf_counter()
-Day8.Part2()
+Day9.Part2()
 print(f"Duration: {time.perf_counter()-t:0.4f} s\n")
 
 print("THE END!")

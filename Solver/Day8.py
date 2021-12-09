@@ -4,9 +4,6 @@ description = "Solver "+solverName
 filePath = "Inputs\\"+solverName+".txt"
 testPath = "Inputs\\"+solverName+"_test.txt"
 
-import statistics
-from time import time
-
 def Part1():
     print(description+" Part 1")
 
